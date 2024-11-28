@@ -173,7 +173,12 @@ img{
 }
 /* =============== BREAKPOİNTS ===============*/
 /*for large devices*/
-@media screen and (max-width: 992px) {}
+@media screen and (max-width: 992px) {
+  .container {
+    margin-left: var(--mb-1-5);
+    margin-right: var(--mb-1-5);
+  }
+}
 
 /*for mid devices*/
 @media screen and (max-width: 768px) {}
@@ -181,4 +186,9 @@ img{
 @media screen and (max-width: 576px) {}
 
 /*for small devices*/
-@media screen and (max-width: 350px ) {}
+@media screen and (max-width: 350px ) {
+  .container {
+    margin-left: var(--mb-1);
+    margin-right: var(--mb-1);
+  }
+}
