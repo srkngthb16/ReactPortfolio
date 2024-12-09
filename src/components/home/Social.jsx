@@ -4,12 +4,12 @@ const Social = () => {
     return (
         <div className="home_social">
             <a href="#" className="home_social-icon" target="_blank">
-            <i class="uil uil-instagram"></i>
+            <i class="uil uil-linkedin"></i>
             </a>
 
-            <a href="#" className="home_social-icon" target="_blank">
+            {/* <a href="#" className="home_social-icon" target="_blank">
             <i class="uil uil-dribbble"></i>
-            </a>
+            </a> */}
 
             <a href="https://github.com/srkngthb16" className="home_social-icon" target="_blank">
             <i class="uil uil-github-alt"></i>

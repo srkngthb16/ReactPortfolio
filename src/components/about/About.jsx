@@ -7,8 +7,8 @@ import İnfo from "./İnfo";
 const About = () => {
     return (
         <section className="about section" id="about">
-            <h2 className="section_title">About Me</h2>
-            <span className="section_subtitle">My İntroduction</span>
+            <h2 className="section_title">Hakkımda</h2>
+            <span className="section_subtitle"></span>
 
             <div className="about_container container grid">
                 <img src={Aboutimg} alt="" className="about_img" />
@@ -16,15 +16,16 @@ const About = () => {
                 <div className="about_data">
                     <İnfo />
                     
-                    <p className="about_description">Lorem, ipsum dolor 
-                        sit amet consectetur adipisicing elit. 
-                        Dignissimos iure veniam odio. Sequi in, 
-                        expedita iure aspernatur esse, hic dolore velit 
-                        beatae cum laboriosam atque laborum saepe dolorem
-                        perspiciatis quidem.</p>
+                    <p className="about_description"> Bilgisayar programcılığı bölümünden yeni mezun, 22 yaşında hevesli bir
+                    yazılımcıyım. Javascript-React alanında temel bir bilgiye sahibim ve sürekli olarak
+                    kendimi geliştirmek için çabalıyorum. Üniversitede aldığım eğitimlerle birlikte,
+                    kişisel projelerimde edindiğim deneyim sayesinde, Web geliştirme, web tasarım,
+                    video ve fotoğraf editörlüğü, Bilgisayar donanım ve yazılım bakım/onarım
+                    süreçlerine hakimim. Yeni bir takımda çalışarak, bilgi ve deneyimlerimi
+                    geliştirmek ve yenilikçi projelerde yer almak istiyorum.</p>
 
                         <a download="" href={CV} 
-                        className="button button--flex">Download CV
+                        className="button button--flex">Cv İndir
                         <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"

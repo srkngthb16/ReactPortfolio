@@ -55,7 +55,7 @@ const Data = () => {
                 </svg>
             </h1>
             <h3 className="home_subtitle"> Yazılımcı </h3>
-            <p className="home_description"> Açıklama falan filan.</p>
+            <p className="home_description"> Bilgisayar programcılığı bölümünden yeni mezun, 22 yaşında hevesli bir yazılımcıyım.</p>
 
             <a href="#contact" className="button button--flex">
                 Merhaba 

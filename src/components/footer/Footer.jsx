@@ -10,36 +10,27 @@ const Footer = () => {
                 <ul className="footer_list">
                     <li>
                         <a href="#about" 
-                        className="footer_link">About</a>
+                        className="footer_link">Hakkımda</a>
                     </li>
 
                     <li>
                         <a href="#portfolio" 
-                        className="footer_link">Projects</a>
-                    </li>
-
-                    <li>
-                        <a href="#testimonials" 
-                        className="footer_link">Testimonials</a>
+                        className="footer_link">Hizmetler</a>
                     </li>
                 </ul>
 
                 <div className="footer_social">
                 <a href="#" className="footer_social-link" target="_blank">
-                <i class="bx bxl-facebook"></i>
+                <i class="bx bxl-linkedin"></i>
                 </a>
 
-                <a href="#" className="footer_social-link" target="_blank">
-                <i class="bx bxl-instagram"></i>
-                </a>
-
-                <a href="#" className="footer_social-link" target="_blank">
-                <i class="bx bxl-twitter"></i>
+                <a href="https://github.com/srkngthb16" className="footer_social-link" target="_blank">
+                <i class="bx bxl-github"></i>
                 </a>
                 </div>
 
-                <span className="footer_copy">Tüm Hakları 
-                    Saklıdır falan filan</span>
+                {/* <span className="footer_copy">Tüm Hakları 
+                    Saklıdır falan filan</span> */}
             </div>
         </footer>
     );

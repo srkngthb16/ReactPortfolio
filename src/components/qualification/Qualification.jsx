@@ -10,8 +10,8 @@ const Qualification = () => {
     
     return (
         <section className="qualification section" id="portfolio">
-            <h2 className="section_title">Qualification</h2>
-            <span className="section_subtitle">My personel journey</span>
+            <h2 className="section_title">Pörtföy</h2>
+            <span className="section_subtitle">Kişisel Yolculuğum</span>
 
             <div className="qualification_container container">
                 <div className="qualification_tabs">
@@ -22,7 +22,7 @@ const Qualification = () => {
                     }
                     onClick={() => toggleTab(1)}
                     >
-                        <i className="uil uil-graduation-cap qualification_icon"></i> Education
+                        <i className="uil uil-graduation-cap qualification_icon"></i> Eğitim
                     </div>
 
                     <div className={toggleState === 2 ? 
@@ -31,7 +31,7 @@ const Qualification = () => {
                     }
                     onClick={() => toggleTab(2)}
                     >
-                        <i className="uil uil-briefcase-alt qualification_icon"></i> Experience
+                        <i className="uil uil-briefcase-alt qualification_icon"></i> Deneyim
                     </div>
                 </div>
 
@@ -43,13 +43,13 @@ const Qualification = () => {
                         <div className="qualification_data">
                             <div>
                                 <h3 className="qualification_title">
-                                    Web Design
+                                    Üniversite
                                 </h3>
                                 <span className="qualification_subtitle">
-                                    Spain - İnstitute
+                                    Kahramanmarş Sütçü İmam Üniversitesi
                                 </span>
                                 <div className="qualification_calender">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                    <i className="uil uil-calendar-alt"></i> 2022 - 2024
                                 </div>
                             </div>
 
@@ -69,13 +69,14 @@ const Qualification = () => {
 
                             <div>
                                 <h3 className="qualification_title">
-                                    Art Director
+                                   İngilizce Eğitimi
                                 </h3>
                                 <span className="qualification_subtitle">
-                                    Spain - İnstitute
+                                UNİVERSİTY OF ECONOMİCS AND HUMAN
+                                SCİENCES İN WARSAW 
                                 </span>
                                 <div className="qualification_calender">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                    <i className="uil uil-calendar-alt"></i> 2021 - 2022
                                 </div>
                             </div>
                         </div>
@@ -83,40 +84,19 @@ const Qualification = () => {
                         <div className="qualification_data">
                             <div>
                                 <h3 className="qualification_title">
-                                    Web Development
+                                    Lise
                                 </h3>
                                 <span className="qualification_subtitle">
-                                    Spain - İnstitute
+                                SİMYA KOLEJİ NEVŞEHİR 
                                 </span>
                                 <div className="qualification_calender">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                    <i className="uil uil-calendar-alt"></i> 2016 - 2020
                                 </div>
                             </div>
 
                             <div>
                                 <span className="qualification_rounder"></span>
                                 <span className="qualification_line"></span>
-                            </div>
-                        </div>
-
-                        <div className="qualification_data">
-                            <div></div>
-
-                            <div>
-                                <span className="qualification_rounder"></span>
-                                <span className="qualification_line"></span>
-                            </div>
-
-                            <div>
-                                <h3 className="qualification_title">
-                                   UX Expert
-                                </h3>
-                                <span className="qualification_subtitle">
-                                    Spain - İnstitute
-                                </span>
-                                <div className="qualification_calender">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -127,53 +107,13 @@ const Qualification = () => {
                         <div className="qualification_data">
                             <div>
                                 <h3 className="qualification_title">
-                                    Hebele Hübele
+                                    Staj
                                 </h3>
                                 <span className="qualification_subtitle">
-                                    Spain - İnstitute
+                                   M2 Teknoloji Hizmetleri - Türkiye
                                 </span>
                                 <div className="qualification_calender">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
-                                </div>
-                            </div>
-
-                            <div>
-                                <span className="qualification_rounder"></span>
-                                <span className="qualification_line"></span>
-                            </div>
-                        </div>
-
-                        <div className="qualification_data">
-                            <div></div>
-
-                            <div>
-                                <span className="qualification_rounder"></span>
-                                <span className="qualification_line"></span>
-                            </div>
-
-                            <div>
-                                <h3 className="qualification_title">
-                                    Art Director
-                                </h3>
-                                <span className="qualification_subtitle">
-                                    Spain - İnstitute
-                                </span>
-                                <div className="qualification_calender">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="qualification_data">
-                            <div>
-                                <h3 className="qualification_title">
-                                    Web Development
-                                </h3>
-                                <span className="qualification_subtitle">
-                                    Spain - İnstitute
-                                </span>
-                                <div className="qualification_calender">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                    <i className="uil uil-calendar-alt"></i> 2024 - 2024
                                 </div>
                             </div>
 
