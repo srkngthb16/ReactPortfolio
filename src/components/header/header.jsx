@@ -82,5 +82,3 @@ const Header = () => {
 }
 
 export default Header
-
-import Header from './components/header/Header.jsx';
