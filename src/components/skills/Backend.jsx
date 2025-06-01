@@ -25,14 +25,14 @@ const Backend = () => {
                     </div>
                     </div>
 
-                   {/*  <div className="skills_data">
+                    <div className="skills_data">
                     <i class='bx bx-badge-check'></i>
 
                     <div>
-                        <h3 className="skills_name">Python</h3>
-                        <span className="skills_level">İntermediate</span>
+                        <h3 className="skills_name">C/C++</h3>
+                        <span className="skills_level">Orta</span>
                     </div>
-                    </div> */}
+                    </div>
                 </div>
 
                 <div className="skills_group">
@@ -45,20 +45,20 @@ const Backend = () => {
                     </div>
                     </div>
 
-                    {/* <div className="skills_data">
-                    <i class='bx bx-badge-check'></i>
-
-                    <div>
-                        <h3 className="skills_name">FireBase</h3>
-                        <span className="skills_level">İntermediate</span>
-                    </div>
-                    </div> */}
-
                     <div className="skills_data">
                     <i class='bx bx-badge-check'></i>
 
                     <div>
                         <h3 className="skills_name">SQL</h3>
+                        <span className="skills_level">Giriş</span>
+                    </div>
+                    </div>
+
+                    <div className="skills_data">
+                    <i class='bx bx-badge-check'></i>
+
+                    <div>
+                        <h3 className="skills_name">C#</h3>
                         <span className="skills_level">Giriş</span>
                     </div>
                     </div>
