@@ -15,7 +15,6 @@ Bu proje, HTML ,CSS ,JS ,Git Kontroller ve React ile yapılmış bir kişisel we
 ![Ana Sayfa](./screenshots/2.png)
 
 ### Test Ekranı
-![Test](./screenshots/1.png)
 ![Test](./screenshots/3.png)
 ![Test](./screenshots/4.png)
 ![Test](./screenshots/5.png)
