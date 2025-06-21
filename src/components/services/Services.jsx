@@ -10,8 +10,8 @@ const Services = () => {
 
     return (
         <section className="services section" id="services">
-            <h2 className="section_title">Hizmetler </h2>
-            <span className="section_subtitle">Ne Sunabilrim</span>
+            <h2 className="section_title">Menu </h2>
+            <span className="section_subtitle">Lezzetlerimiz</span>
 
             <div className="services_container container grid">
                 {/* <div className="services_content">
