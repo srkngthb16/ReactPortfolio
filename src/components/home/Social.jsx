@@ -3,7 +3,7 @@ import React from 'react'
 const Social = () => {
     return (
         <div className="home_social">
-            <a href="https://www.linkedin.com/in/serkan-dalgıç-37583b377/" className="home_social-icon" target="_blank">
+            <a href="https://www.linkedin.com/in/serkan-dalgıç-37583b377/" className="home_social-icon" target="_blank" rel="noreferrer">
             <i class="uil uil-linkedin"></i>
             </a>
 
@@ -11,7 +11,7 @@ const Social = () => {
             <i class="uil uil-dribbble"></i>
             </a> */}
 
-            <a href="https://github.com/srkngthb16" className="home_social-icon" target="_blank">
+            <a href="https://github.com/srkngthb16" className="home_social-icon" target="_blank" rel="noreferrer">
             <i class="uil uil-github-alt"></i>
             </a>
         </div>
